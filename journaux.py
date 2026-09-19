@@ -33,7 +33,7 @@ url = "https://feeds.leparisien.fr/leparisien/rss"
 # Adresse de ton webhook Discord.
 #
 # ⚠️ Mets ton NOUVEAU webhook ici.
-WEBHOOK_URL = "https://discord.com/api/webhooks/1536395975285940305/FG5nQDDFGBkZ07QJRbWem0UcZaitkheAPciQrY_QQPjNy9WDLiyHVENwsXdD7JN38Vvj"
+WEBHOOK_URL = "mon_webhook_discord"
 
 
 # ============================================================
